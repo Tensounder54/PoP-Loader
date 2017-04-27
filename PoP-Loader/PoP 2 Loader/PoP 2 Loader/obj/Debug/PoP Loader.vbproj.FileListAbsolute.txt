@@ -1,0 +1,13 @@
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP Loader.vbprojResolveAssemblyReference.cache
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP_2_Loader.Main.resources
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP_2_Loader.Key_Bindings.resources
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP_2_Loader.Resources.resources
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP Loader.vbproj.GenerateResource.Cache
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.exe
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.xml
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP 2 Loader.pdb
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\bin\Debug\PoP 2 Loader.exe.config
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\bin\Debug\PoP 2 Loader.exe
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\bin\Debug\PoP 2 Loader.pdb
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\bin\Debug\PoP 2 Loader.xml
+C:\Users\T54\Source\Repos\PoP-Loader\PoP-Loader\PoP 2 Loader\PoP 2 Loader\obj\Debug\PoP_2_Loader.Launcher_Options.resources
